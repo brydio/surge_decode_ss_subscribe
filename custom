@@ -1,0 +1,4 @@
+# Custom
+
+DOMAIN-SUFFIX,a.ckm.iqiyi.com,REJECT
+DOMAIN-SUFFIX,facebook.com,PROXY
